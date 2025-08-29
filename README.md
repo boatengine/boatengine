@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌈I'm currently Frontend WebDev (beginner) Backend (ได้นิดหน่อย😅)<br>
+🌈I'm currently Frontend WebDev, Backend <br>
 
 ## 🌐 Socials:
 
